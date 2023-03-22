@@ -5,12 +5,13 @@
 # Red Team and Breach and Attack Simulation Solution
 
 ### The Litmus Test of Your Cybersecurity That Also Helps to Achieve Continuous Cybersecurity Posture.
+
 Cybersecurity is a continuous journey as attacks are a continuous process. This journey starts with having cybersecurity solutions that act as basic hygiene and provide preventive cybersecurity. Then comes detection and prevention, threat hunting and solutions and people needed for it. Once everything is done, organizations achieve a certain cybersecurity posture. Majority of the organizations stop here and a few go to test their cybersecurity posture, and very rare an organization goes beyond that and put its cybersecurity to continuous testing and implementing those results in achieving a cybersecurity posture that is dynamic and in response to the environment.
 Invinsense RBAS helps organization to put their cybersecurity tools, people and processes to test andhelp them achieve continuous cybersecurity posture.Invinsense RBAS will help your cybersecurity systems to observe the entry of adversaries, lateral movements, attack paths, and weaknesses in IT systems and networks. The Red Ops will act like adversaries and will provide insight of current minimum time to detect (MTTD) and minimum time to respond (MTTR).Invinsense RBAS combines everything that is needed to test your environment and make it more matured. Invinsense RBAS covers Continuous Automated Red Team (CART), RedOps, Breach & Attack Simulation (BAS), DevSecOps and Vulnerability Management 
 
  <img  title="The Litmus Test of Your Cybersecurity That Also Helps to Achieve Continuous Cybersecurity Posture." alt="The Litmus Test of Your Cybersecurity That Also Helps to Achieve Continuous Cybersecurity Posture." src="https://user-images.githubusercontent.com/121154299/226802935-6c7953d1-77ed-40f4-8215-a9b5cb7e42ec.png">
 
-### INVINSENSE RBAS- VULNERABILITY MANAGEMENT AND DEVSECOPS:
+## INVINSENSE RBAS- VULNERABILITY MANAGEMENT AND DEVSECOPS:
 Clear picture of your organization’s security posture is only possible by testing it continuously. Through DevSecOps, Invinsense RBAS allows you to perform security testing across IT landscape to know yoursecurity posture in real time.
 Vulnerability management allows to build central repository of various security testing across the
 landscape.
@@ -31,7 +32,7 @@ The Key Features Include :
 -	Vulnerability metrics, reports, and baseline self service tools.
 -	Workflow and Task Management on the different vulnerabilities
 
-### INVINSNSE RBAS- REDOPS AND CONTINUOUS : AUTOMATED RED TEAM (CART)
+## INVINSNSE RBAS- REDOPS AND CONTINUOUS : AUTOMATED RED TEAM (CART)
 Automated red teaming and RedOps of Invinsense RBAS evaluates the security posture of your
 organization by using realistic attacker techniques and gives a fair idea about how well your organization is prepared to handle a real attack and where do you need improvements. Major outcomes of this tool are to determine the current minimum time to detect (MTTD) and minimum time to respond (MTTR).
 
@@ -48,7 +49,7 @@ The Key Features Of Redops :
 -	Gives security teams a hands-on experience of a real incident
 -	Trains security teams to handle such attacks which sophisticated
 
-### INVINSENSE RBAS- BREACH AND ATTACK SIMULATION (BAS)
+## INVINSENSE RBAS- BREACH AND ATTACK SIMULATION (BAS)
 Breach and Attack Simulations allows Invinsense RBAS to simulate attacks and assess the security posture of your organization. It is a cyber security framework used for imitating adversaries Tactics, Techniques and Procedures in a simulated environment
 
 <img title="INVINSENSE RBAS- BREACH AND ATTACK SIMULATION (BAS)" alt="INVINSENSE RBAS- BREACH AND ATTACK SIMULATION (BAS)" src="https://user-images.githubusercontent.com/121154299/226797480-20b18123-8097-43b1-b911-fa071b05068b.png">
